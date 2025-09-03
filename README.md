@@ -1,108 +1,181 @@
-# 👋 Olá! Eu sou Icaro Vilas Boas
+# 🎯 Welcome to my Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=35&center=true&vCenter=true&width=1000&lines=DEVELOPER+FULL+CYCLE;Flutter+%7C+Dart+%7C+FlutterFlow;Assistente+de+TI+-+Transformação+Digital;Sempre+aprendendo+novas+tecnologias!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Icaro%20Vilas%20Boas&fontSize=90&fontAlign=70&fontAlignY=35&desc=Code%20•%20Create%20•%20Innovate&descAlign=75&descAlignY=55&animation=twinkling" />
 </div>
 
-## 🚀 Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Building+the+future+one+commit+at+a+time;💻+Flutter+Developer+%26+Digital+Solutions+Architect;🔥+Transforming+coffee+into+code+since+2024;⚡+Always+curious,+forever+learning&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000&color=36BCF7&vCenter=true&size=22" />
+</p>
 
-```dart
-class IcaroVilasBoas {
-  String nome = "Icaro Vilas Boas";
-  String cargo = "Developer Full Cycle";
-  String empresa = "Grupo Piracanjuba";
-  String educacao = "Faculdade SENAI Fatesg";
-  List<String> linguagens = ["Dart", "Java", "Flutter", "N8N"];
-  List<String> especialidades = ["FlutterFlow", "APIRest", "Automate", "Cloud"];
-  String localizacao = "Goiânia, Goiás, Brasil";
+---
+
+## 🎨 About Me { }
+
+```javascript
+const icaro = {
+  name: "Icaro Vilas Boas",
+  role: "Developer Full Cycle",
+  company: "Grupo Piracanjuba 🥛",
+  location: "Goiânia, GO - Brasil 🇧🇷",
   
-  void apresentacao() {
-    print("Desenvolvedor apaixonado por criar soluções digitais inovadoras!");
-  }
-}
+  currentlyLearning: ["Advanced Flutter Patterns", "Cloud Architecture", "AI Integration"],
+  
+  techStack: {
+    mobile: ["Flutter", "Dart", "FlutterFlow"],
+    backend: ["Java", "API REST", "N8N Automation"],
+    cloud: ["Google Cloud", "Firebase", "AWS"],
+    database: ["PostgreSQL", "MongoDB", "Firestore"],
+    tools: ["Git", "Docker", "Scrum"]
+  },
+  
+  lifePhilosophy: "Code is poetry, bugs are just plot twists 🐛✨",
+  
+  funFact: "I can debug code faster than I can decide what to have for lunch 🤔"
+};
+
+console.log("Currently building digital solutions that matter! 🚀");
 ```
 
-## 🛠️ Tech Stack
+## ⚡ My Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-REST-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+### 🎯 Core Technologies
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,gcp,docker,git,vscode&theme=dark" />
+
+### 🛠️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=figma,postman,mongodb,postgres,linux,androidstudio&theme=dark" />
+
 </div>
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=icaroaub&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroaub&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=icaroaub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff"/>
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icaroaub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icaroaub&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icaroaub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="100%"/>
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 Achievement Gallery
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=icaroaub&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=icaroaub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
 </div>
 
-## 💼 Experiência Atual
+---
 
-**🔹 Assistente de TI - Transformação Digital** @ Grupo Piracanjuba  
-*Fev 2025 - Presente | Tempo Integral*
+## 💼 What I'm Building
 
-- 📱 Desenvolvimento de sistemas com Flutter e FlutterFlow
-- ⚙️ Automação de processos com N8N
-- ☁️ Soluções em Cloud
-- 🔗 Integração de APIs REST
-- 🏗️ Arquitetura de sistemas digitais
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-## 🎯 Competências Principais
+### 🏢 @ Grupo Piracanjuba
+**Assistente de TI - Transformação Digital**
+
+🎯 **Mission:** Digitizing dairy excellence  
+📱 Creating mobile solutions with Flutter  
+🔄 Automating business processes  
+☁️ Architecting cloud-first applications  
+🔗 Building robust API integrations  
+
+*"Turning milk into digital gold!"* 🥛➡️💰
+
+</td>
+<td width="50%" align="center">
+
+### 🎓 Academic Journey
+**Faculdade SENAI Fatesg**
+
+📚 Constantly evolving my skills  
+🧠 Learning industry best practices  
+👥 Collaborating on innovative projects  
+🔬 Experimenting with new technologies  
+
+*"Student by day, coder by night!"* 🌙💻
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎮 Fun Zone
+
+<details>
+<summary>🎲 Click to reveal some easter eggs!</summary>
+
+```ascii
+    _______________
+   |  ___________  |
+   | |           | |
+   | |   > _     | |
+   | |   /_/     | |
+   | |___     ___| |
+   |_____|\_/|_____|
+     _|__|/ \|_|_
+    / ********** \
+   /  ************  \
+  --------------------
+
+   "Hello, World!" - My first love
+   "git commit -m 'life'" - My daily ritual
+   "404: Sleep not found" - My current status
+```
+
+**⚡ Quick Facts:**
+- 🍕 Pizza is my debugging fuel
+- 🎵 Code better with lo-fi music
+- 🌙 Night owl developer (bugs fear the darkness)
+- ☕ Coffee consumption: `undefined` (too much to count)
+
+</details>
+
+---
+
+## 🌟 Featured Projects
 
 <div align="center">
 
-| Frontend | Backend | Mobile | Automação |
-|----------|---------|--------|-----------|
-| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) | ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat&logo=flutter&logoColor=white) | ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat&logo=n8n&logoColor=white) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![API REST](https://img.shields.io/badge/-API_REST-009688?style=flat) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| 🚀 Project | 🛠️ Tech | 📝 Description |
+|------------|----------|-----------------|
+| **Digital Transformation Suite** | Flutter • N8N • Cloud | Revolutionizing Grupo Piracanjuba's digital ecosystem |
+| **Mobile App Portfolio** | Flutter • Dart • Firebase | High-performance mobile applications |
+| **Automation Pipeline** | N8N • API Integration | Streamlining business processes |
 
 </div>
 
-## 📈 Atividade de Contribuição
+---
+
+## 🤝 Let's Connect & Create Something Amazing!
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/icaroaub/icaroaub/output/github-contribution-grid-snake.svg" />
-</div>
-
-## 🌟 Projetos em Destaque
-
-🔹 **Sistemas de Transformação Digital** - Desenvolvimento de soluções inovadoras no Grupo Piracanjuba  
-🔹 **Automação com N8N** - Processos automatizados para otimização empresarial  
-🔹 **Apps Flutter** - Aplicações mobile de alta performance  
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
-  <a href="mailto:icaroauj777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/icaro-vilas-boas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/icaroaub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaroauj777@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/icaro-vilas-boas)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icaroaub)
+  
+  <img src="https://komarev.com/ghpvc/?username=icaroaub&color=36BCF7&style=for-the-badge&label=Profile+Views" />
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=icaroaub&color=36BCF7&style=flat-square&label=Profile+Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
   
-  ### 💙 "Transformando ideias em soluções digitais"
+  ### 🎯 "Turning ideas into digital reality, one commit at a time"
+  
+  <sub>Made with 💙 and lots of ☕ by Icaro Vilas Boas</sub>
 </div>
