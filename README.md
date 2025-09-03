@@ -139,7 +139,7 @@ const automateEverything = () => {
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0f172a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icaroavb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0f172a"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaroavb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=0f172a"/>
 </div>
