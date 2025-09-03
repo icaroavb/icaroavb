@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to my Digital Playground 🌟</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Icaro%20Vilas%20Boas&fontSize=80&fontAlign=70&fontAlignY=40&desc=✨%20Crafting%20Digital%20Experiences%20✨&descAlign=70&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Icaro%20Araujo&fontSize=80&fontAlign=70&fontAlignY=40&desc=✨%20Crafting%20Digital%20Experiences%20✨&descAlign=70&descAlignY=60&animation=fadeIn" />
 </div>
 
 <p align="center">
