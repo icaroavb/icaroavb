@@ -177,7 +177,7 @@ const myApproach = {
 
 <div align="center">
   
-  <a href="mailto:icaroauj777@gmail.com">
+  <a href="mailto:icaroaraujo7777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/icaro-vilas-boas">
