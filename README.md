@@ -6,9 +6,7 @@
   
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👨‍💻+Developer+Full+Cycle;🔧+Building+End-to-End+Solutions;⚡+Flutter+%7C+Java+%7C+Cloud+%7C+N8N;🎯+Making+Ideas+Come+to+Life&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=45B7D1&vCenter=true&size=22" />
-</p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
